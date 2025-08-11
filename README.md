@@ -62,4 +62,7 @@ Education: Demonstrates the power of convolutional neural networks for feature r
 Conclusion
 This project successfully demonstrates how deep learning can be applied to creative domains by merging art and technology. By leveraging a pre-trained CNN for feature extraction and iterative optimization, the system produces compelling stylized images that mimic the aesthetics of the chosen style image while maintaining the structure of the content image. The resulting script is flexible, reproducible, and ready for extension into real-time applications using faster feed-forward networks.
 
+<img width="288" height="216" alt="Image" src="https://github.com/user-attachments/assets/e6553779-483c-4eeb-b692-64d5d9100830" />
+
+
 
